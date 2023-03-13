@@ -10,3 +10,8 @@ generate the predicted phase image. 10-phase 4D-CTs were
 used to train and test RMSim. 
 
 A pre-trained model in included as well as a set of 20 breathing traces and LUNA public CT dataset.
+
+
+##Reference
+Lee D, Yorke E, Zarepisheh M, Nadeem S, Hu YC. RMSim: controlled respiratory motion simulation on static patient scans. Phys Med Biol. 2023 Feb 7;68(4). doi: 10.1088/1361-6560/acb484. PMID: 36652721.
+[https://iopscience.iop.org/article/10.1088/1361-6560/acb484]
