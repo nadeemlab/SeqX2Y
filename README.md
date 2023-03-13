@@ -7,7 +7,7 @@ auxiliary inputs of 1D breathing traces so that a larger amplitude in the trace 
 more significant predicted deformation. Stacked 3D-ConvLSTMs are used to capture
 the spatial-temporal respiration patterns. A spatial transformer deforms the static CT with the predicted DVF to
 generate the predicted phase image. 10-phase 4D-CTs were
-used to train and test RMSim. 
+used to train RMSim. 
 
 A pre-trained model in included as well as a set of 20 breathing traces and LUNA public CT dataset.
 
